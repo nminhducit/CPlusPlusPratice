@@ -1,0 +1,8 @@
+A company decides to re-produce a TV for the market, and the TV screen has exactly n pixels.
+
+Your task is to determine the size of the TV screen so that the width and length are the least different.
+
+Input	|  Output
+8	|  2 4
+64	|  8 8
+5	|  1 5
