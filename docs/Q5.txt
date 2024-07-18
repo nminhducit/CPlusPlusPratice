@@ -1,8 +1,1 @@
-A company decides to re-produce a TV for the market, and the TV screen has exactly n pixels.
-
-Your task is to determine the size of the TV screen so that the width and length are the least different.
-
-Input	|  Output
-8	|  2 4
-64	|  8 8
-5	|  1 5
+In ra màn hình cách đọc một số nguyên dương nhỏ hơn 1000000. Ví dụ số 726503 đọc là: bảy mươi hai vạn sáu ngàn năm trăm linh ba.
