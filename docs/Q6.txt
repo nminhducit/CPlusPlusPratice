@@ -1,1 +1,0 @@
-A person needs to have an amount of money T, accumulated by saving an initial amount of money S with an annual interest rate of P% according to the progressive method (each year's interest is added to the principal). . Please enter the real numbers T, S, P and determine the number of years to save.
